@@ -43,7 +43,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="textinput">Senha</label>
   <div class="col-md-4">
-  <input id="textinput" name="senha" type="text" placeholder="Digite sua senha" class="form-control input-md">
+  <input id="textinput" name="senha" type="password" placeholder="Digite sua senha" class="form-control input-md">
     
   </div>
 </div>
