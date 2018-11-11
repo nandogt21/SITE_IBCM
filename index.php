@@ -39,7 +39,7 @@
 
         </div>
        
-        <button type="submit" class="btn btn-primary">Login</button>
+        <input type="submit" class="btn btn-primary">Login
 
     </form>
     <a href="cadastro.php"> Efetuar Cadastro Administrativo </a>
