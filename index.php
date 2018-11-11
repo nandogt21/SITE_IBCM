@@ -28,18 +28,18 @@
         <div class="form-group">
 
 
-            <input type="email" class="form-control" id="email" placeholder="Email">
+            <input type="email" class="form-control" name="email" placeholder="Email">
 
         </div>
 
         <div class="form-group">
 
-            <input type="password" class="form-control" id="senha" placeholder="Senha">
+            <input type="password" class="form-control" name="senha" placeholder="Senha">
             <br></br>
 
         </div>
        
-        <input type="submit" class="btn btn-primary">Login
+        <input type="submit" name="Login" class="btn btn-primary">
 
     </form>
     <a href="cadastro.php"> Efetuar Cadastro Administrativo </a>
