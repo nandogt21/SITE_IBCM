@@ -10,7 +10,7 @@
 <body>
  
     
-<div class="container">
+<div class="container" >
 	<div class="row">
             <center><h2>CRIE SEU CADASTRO ADMINISTRATIVO.</h2></center>
 	</div>
