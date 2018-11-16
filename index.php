@@ -44,7 +44,7 @@
               <ul class="list-unstyled">
                 <li><a href="https://www.facebook.com/pg/eventosespacoreal/photos/?ref=page_internal" class="text-white">Facebook</a></li>
                 <li><a href="#" class="text-white">E-mail</a></li>
-                <li><a href="index.php" class="text-white">Area Administrativa</a></li>
+                <li><a href="pagina_login.php" class="text-white">Area Administrativa</a></li>
 
               </ul>
             </div>
@@ -82,91 +82,45 @@
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="salao2.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Este e um Tema azul. DADOS DADOS </p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="imagens/tema_casamento3.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Tema para Casamento Cor Rosa.. DADOS DADOS</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      
                     </div>
-                    <small class="text-muted">9 mins</small>
+                   
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="imagens/tema_casamento_verm1.jpg" height="300px" width="200px" class="card-img-top"  data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Tema casamento cor vermelha DADOS DADOS.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button href="#" type="button" class="btn btn-sm btn-outline-secondary">Veja mais Fotos</button>
+                      
                     </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
+                    
                   </div>
                 </div>
               </div>
@@ -174,45 +128,91 @@
 
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="imagens/salao5.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Descriçao.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                    
                     </div>
-                    <small class="text-muted">9 mins</small>
+                    
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                <img src="foto.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Descriçao.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                    
                     </div>
-                    <small class="text-muted">9 mins</small>
+                   
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                  <p class="card-text">Descriçao.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                     
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                <div class="card-body">
+                  <p class="card-text">Descriçao.</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      
+                    </div>
+                   
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                <div class="card-body">
+                  <p class="card-text">Descriçao</p>
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 shadow-sm">
+                <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                <div class="card-body">
+                  <p class="card-text">Descriçao</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                    
                     </div>
-                    <small class="text-muted">9 mins</small>
+                
                   </div>
                 </div>
               </div>
