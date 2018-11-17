@@ -84,10 +84,10 @@
               <div class="card mb-4 shadow-sm">
                   <img src="salao2.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Este e um Tema azul. DADOS DADOS </p>
+                  <p class="card-text">15 Anos tema azul</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                        <butto type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
                       
                     </div>
                     
@@ -99,7 +99,7 @@
               <div class="card mb-4 shadow-sm">
                   <img src="imagens/tema_casamento3.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Tema para Casamento Cor Rosa.. DADOS DADOS</p>
+                  <p class="card-text">Casamento Tema de cor rosa.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
@@ -114,7 +114,7 @@
               <div class="card mb-4 shadow-sm">
                   <img src="imagens/tema_casamento_verm1.jpg" height="300px" width="200px" class="card-img-top"  data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Tema casamento cor vermelha DADOS DADOS.</p>
+                  <p class="card-text">Tema casamento da cor vermelha.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button href="#" type="button" class="btn btn-sm btn-outline-secondary">Veja mais Fotos</button>
@@ -143,9 +143,9 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="imagens/temapreto1.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Descriçao.</p>
+                  <p class="card-text">Tema preto para aniversarios ect.</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
                       <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
@@ -209,7 +209,7 @@
                   <p class="card-text">Descriçao</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais fotos</button>
                     
                     </div>
                 
@@ -226,10 +226,10 @@
     <footer class="text-muted">
       <div class="container">
         <p class="float-right">
-          <a href="#">Back to top</a>
+          <a href="#">Voltar ao topo</a>
         </p>
-        <p>Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-        <p>New to Bootstrap? <a href="../../">Visit the homepage</a> or read our <a href="../../getting-started/">getting started guide</a>.</p>
+        <p>Entre em contato atraves do numero (99)9999-9999 e pela pagina do facebook !</p>
+        
       </div>
     </footer>
 
