@@ -40,7 +40,7 @@
               <p class="text-muted">Espaço real,Um lugar para voce fazer sua festa. Temos varios temas e uma equipe especializada </p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
-              <h4 class="text-white">Contact</h4>
+              <h4 class="text-white">Contato</h4>
               <ul class="list-unstyled">
                 <li><a href="https://www.facebook.com/pg/eventosespacoreal/photos/?ref=page_internal" class="text-white">Facebook</a></li>
                 <li><a href="#" class="text-white">E-mail</a></li>
@@ -82,12 +82,13 @@
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                  <img src="salao2.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="img/Tema 15 Anos Azul/salao9.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">15 Anos tema azul</p>
+                    <p class="card-text"><h6>15 Anos Azul</h6></p>
+                <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <butto type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                        <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                     
@@ -99,10 +100,11 @@
               <div class="card mb-4 shadow-sm">
                   <img src="imagens/tema_casamento3.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Casamento Tema de cor rosa.</p>
+                    <p class="card-text"><h6>Casamento Cor lilas.</h6></p>
+                  <small>Decoraçao para casamento. </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                     <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                    
@@ -114,10 +116,11 @@
               <div class="card mb-4 shadow-sm">
                   <img src="imagens/tema_casamento_verm1.jpg" height="300px" width="200px" class="card-img-top"  data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Tema casamento da cor vermelha.</p>
+                    <p class="card-text"><h6>Casamento cor vermelha.</h6></p>
+                   <small>Decoraçao para casamento. </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button href="#" type="button" class="btn btn-sm btn-outline-secondary">Veja mais Fotos</button>
+                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                     
@@ -131,9 +134,10 @@
                   <img src="imagens/salao5.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao.</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                     
                     </div>
                     
@@ -146,9 +150,10 @@
                   <img src="imagens/temapreto1.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Tema preto para aniversarios ect.</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                     
                     </div>
                    
@@ -161,9 +166,10 @@
                 <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao.</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                     <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                      
                     </div>
 
@@ -177,9 +183,10 @@
                 <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao.</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                    
@@ -192,9 +199,10 @@
                 <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja Mais Fotos</button>
+                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
 
@@ -207,9 +215,10 @@
                 <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao</p>
+                   <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais fotos</button>
+                     <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
                     
                     </div>
                 
