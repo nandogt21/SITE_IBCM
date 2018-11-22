@@ -69,8 +69,9 @@
 
       <section class="jumbotron text-center">
         <div class="container">
-          <h1 class="jumbotron-heading">Album De Temas</h1>
-          <p class="lead text-muted">De uma olhada em nossos temas .Alugamos salao alem de termos equipe especializada na conzinha e garçon treinados.</p>
+            
+          <h1 class="jumbotron-heading">Ambiente Espaço Real</h1>
+          <p class="lead text-muted">Escolha seu tema . Alugamos salao alem de termos equipe especializada na conzinha e garçon treinados.</p>
           <p>Valores Combinado Pelo WhatsApp (61)9999-9999 Ou Email: Teste@hotmail.com</p>
           
         </div>
@@ -98,13 +99,13 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                  <img src="imagens/tema_casamento3.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="img/Tema casamanto lilas/salao02.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text"><h6>Casamento Cor lilas.</h6></p>
                   <small>Decoraçao para casamento. </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                     <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
+                     <a href="galeria3.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                    
@@ -114,13 +115,13 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                  <img src="imagens/tema_casamento_verm1.jpg" height="300px" width="200px" class="card-img-top"  data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="img/Tema casamento azul/slide02.jpg" height="300px" width="200px" class="card-img-top"  data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                    <p class="card-text"><h6>Casamento cor vermelha.</h6></p>
+                    <p class="card-text"><h6>Casamento cor Azul.</h6></p>
                    <small>Decoraçao para casamento. </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
+                      <a href="galeria2.html"><p>Veja Mais Fotos</p></a>
                       
                     </div>
                     
@@ -131,13 +132,13 @@
 
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                  <img src="imagens/salao5.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="img/Tema casamento vermelho/salao01.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Descriçao.</p>
-                   <small>Decoraçao do tema azul de aniversario </small>
+                  <p class="card-text">Casamento cor vermelha.</p>
+                   <small>Decoraçao para casamento </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
+                      <a href="galeria4.html"><p>Veja Mais Fotos</p></a>
                     
                     </div>
                     
@@ -147,13 +148,13 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                  <img src="imagens/temapreto1.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="img/Tema 15 Anos Black/salao1.jpg" height="300px" width="200px"  class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
-                  <p class="card-text">Tema preto para aniversarios ect.</p>
-                   <small>Decoraçao do tema azul de aniversario </small>
+                  <p class="card-text">Tema preto para aniversarios</p>
+                   <small>Decoraçao do tema preto/amarelo de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                      <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
+                      <a href="galeria5.html"><p>Veja Mais Fotos</p></a>
                     
                     </div>
                    
@@ -163,13 +164,13 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="foto.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
+                  <img src="imagens/Salao_amarelo.jpg" height="300px" width="200px" class="card-img-top" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=Thumbnail" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Descriçao.</p>
                    <small>Decoraçao do tema azul de aniversario </small>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                     <a href="galeria1.html"><p>Veja Mais Fotos</p></a>
+                     <a href="#"><p>Veja Mais Fotos</p></a>
                      
                     </div>
 
