@@ -13,6 +13,7 @@
         color:white;
     }
 </style>
+<script type="text/javascript" src="validar.js"></script>
 
 </head>
 <body>
@@ -23,7 +24,7 @@
             <center id="cor_nome"><h2>CRIE SEU CADASTRO ADMINISTRATIVO.</h2></center>
 	</div>
 </div>
-    <form class="form-horizontal" method="POST" action="valida_cadastro.php">
+    <form class="form-horizontal" name="form" method="POST"  onsubmit="return validar();" action="valida_cadastro.php">
 <fieldset >
 
 
@@ -40,7 +41,7 @@
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="textinput" id="cor_nome">E-mail</label>  
+  <label class="col-md-4 control-label"  for="textinput" id="cor_nome">E-mail</label>  
   <div class="col-md-4">
   <input id="textinput" name="email" type="text" placeholder="Digite seu melhor e-mail" class="form-control input-md">
     
@@ -49,7 +50,7 @@
 
 <!-- Text input-->
 <div class="form-group">
-  <label class="col-md-4 control-label" for="textinput" id="cor_nome">Senha</label>
+  <label class="col-md-4 control-label" name="senha" for="textinput" id="cor_nome">Senha</label>
   <div class="col-md-4">
   <input id="textinput" name="senha" type="password" placeholder="Digite sua senha" class="form-control input-md">
     
@@ -60,7 +61,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="singlebutton"></label>
   <div class="col-md-4">
-    <button id="singlebutton" name="salvar" class="btn btn-primary">Confirmar</button>
+    <button id="singlebutton" name="salvar"  class="btn btn-primary">Confirmar</button>
   </div>
 </div>
 

@@ -4,6 +4,13 @@
         <title>Upload de imagens</title>
     </head>
     <body>
+      <?php
+            $_SESSION["email"]=$email;
+            $_SESSION["senha"]=$senha;
+                
+             
+        ?>
+        <a id="titulo">Area administrativa</a>
         <?php
         include("upload/classe/conexao.php");
         
