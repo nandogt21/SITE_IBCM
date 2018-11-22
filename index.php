@@ -70,8 +70,8 @@
       <section class="jumbotron text-center">
         <div class="container">
             
-          <h1 class="jumbotron-heading">Ambiente Espaço Real</h1>
-          <p class="lead text-muted">Escolha seu tema . Alugamos salao alem de termos equipe especializada na conzinha e garçon treinados.</p>
+          <h1 class="jumbotron-heading">Ambiente Espaço Real de Planaltina(GO)</h1>
+          <p class="lead text-muted">Escolha seu tema . Alugamos salao além de termos equipe especializada na cozinha e garçon treinados.</p>
           <p>Valores Combinado Pelo WhatsApp (61)9999-9999 Ou Email: Teste@hotmail.com</p>
           
         </div>
